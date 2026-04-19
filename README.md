@@ -1,4 +1,6 @@
 # Ventas-Exito-Reporting-SQL
+![Status: Maintained](https://img.shields.io/badge/Status-Maintained-brightgreen?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 Challenge de SQL sobre Databricks. Enunciado brindado por la empresa Lovelytics.
 
 ## 📊 Sobre el Proyecto
